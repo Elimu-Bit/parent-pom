@@ -5,7 +5,7 @@
 
 <!--    Parent POM identity-->
 	<groupId>com.elimubit</groupId>
-	<artifactId>Parent-Pom</artifactId>
+	<artifactId>parent-pom</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -198,16 +198,16 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/Elimu-Bit/parent-pom</url>
+            <name>GitHub Elimu-Bit Apache Maven  Packages</name>
+            <url>https://maven.pkg.github.com/elimu-bit/parent-pom</url>
         </repository>
     </distributionManagement>
 
 <!--    SCM Information-->
     <scm>
-        <connection>scm:git:https://github.com/Elimu-Bit/parent-pom.git</connection>
-        <developerConnection>scm:git:https://github.com/Elimu-Bit/parent-pom.git</developerConnection>
-        <url>https://github.com/Elimu-Bit/parent-pom</url>
+        <connection>scm:git:https://github.com/elimu-bit/parent-pom.git</connection>
+        <developerConnection>scm:git:https://github.com/elimu-bit/parent-pom.git</developerConnection>
+        <url>https://github.com/elimu-bit/parent-pom</url>
     </scm>
 
 </project>
